@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acerca de mí
-nav_order: 2
+nav_order: 1
 ---
 
 # Un poco sobre mí :)

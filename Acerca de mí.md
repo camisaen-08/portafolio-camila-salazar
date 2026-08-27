@@ -9,9 +9,9 @@ nav_order: 1
 - Nací el 4 de enero de 2008 en Tampico, Tamaulipas. Soy la mas pequeña de cuatro hermanos y tengo una gemela.
 - Me mudé a la CDMX a los 4 años y me gradué del Colegio Vista Hermosa.
 
-![mi-foto](assets/img/mi-foto)
+![mi-foto](assets/files/mi-foto)
 
-![FAM](assets/img/FAM)
+![FAM](assets/files/FAM)
 
 ----
 
@@ -19,12 +19,12 @@ nav_order: 1
 
 **Deportes:** Me encantan los deportes como el fútbol, la bicicleta de montaña, los hikes, el buceo, la escalada, y muchos más... 
 
-![bike](assets/img/bike)
+![bike](assets/files/bike)
 
-![scooba](assets/img/scooba)
+![scooba](assets/files/scooba)
 
 **Hobbies:** Una de mis pasiones más grandes es la música, lo que mas me gusta es ir a conciertos!. Aqui puedes explorar un poco de mis gustos: [PLAYLIST CSE SPOTIFY](https://open.spotify.com/playlist/1GEPakMBmQGfnrqjWuf3vf?si=0c44124d2071490a). También soy fan #1 de la naturaleza y las montañas!
 
-![billie](assets/img/billie)
+![billie](assets/files/billie)
 
-![HARRY](assets/img/HARRY)
+![HARRY](assets/files/HARRY)

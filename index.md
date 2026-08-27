@@ -16,17 +16,21 @@ Como estamos apenas aprendiendo a programar, el profesor nos proporcionó la pla
 
 2. ** Cambiar datos** 
 
-Despues de descargar la plantilla, cambiamos el nombre y reemplazamos con nuestra cuenta de Github
+Despues de descargar la plantilla, cambié el nombre y reemplacé con mi nueva cuenta de Github.
 
-3. Dominar **Markdown** (texto, listas, tablas, código).
-4. Configurar la **navegación** (sidebar, secciones, orden).
-5. Agregar **imágenes, videos** y otros recursos.
-6. Ajustar **estilos** (logo, colores, footer).
+3. **Escribir contenidos**
+
+Ya que todo esta listo, comencé a reemplazar lo que estaba escrito antes, con lo nuestro.
 
 
-Contenido:
-- [1. Publicar en GitHub Pages](01-publicar-en-github-pages.md)
-- [2. Estructura del repositorio](02-estructura-del-repo.md)
-- [3. Escribir en Markdown](03-markdown.md)
-- [4. Personalización visual](04-estilos.md)
+4. **Guardar cambios**
 
+Éste es un paso crucial, ya que si al terminar de hacer tus cambios, no oprimes "sincronizar", además de que los cambios no se guardan, toda la página se traba y no te permite seguir trabajando.
+
+5. **Últimos detalles**
+
+Por último, realicé un chequeo de que todo funcione correctamente y que la página esté sincronizada con el link para abrir la página correctamente
+
+
+
+Hasta ahora, éste fue mi proceso al hacer mi primer código! Tuve una experiencia mayormente positiva; lo único que no me salió a la perfección fue el agregado de imágenes.    Ésto fue porque seguí las instrucciones para agregar imágenes pero en la página sale el código, no la imagen.

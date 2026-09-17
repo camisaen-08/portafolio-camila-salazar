@@ -126,11 +126,18 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 # Circuito 0
 
 **Imagen Tinkerkad**
+
 ![foto](assets/img/01-publicar/TIN0.png)
+
 **Foto**
+
 ![foto](assets/img/01-publicar/Fot0.png)
+
 **VIDEO**
+
 ![video](assets/videos/CERO.mov)
+
 **Código**
+
 ![foto](assets/img/01-publicar/Cod0.png)
 

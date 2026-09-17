@@ -141,3 +141,22 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 ![foto](assets/img/01-publicar/COD0.png)
 
+----
+
+# Circuito 1
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T1.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F1.png)
+
+**Video**
+
+![video](assets/videos/UNO.mov)
+
+**Código**
+
+![foto](assets/img/01-publicar/C1.png)

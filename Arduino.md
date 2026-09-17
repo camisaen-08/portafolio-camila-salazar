@@ -110,11 +110,11 @@ Resistencia variable circular con un eje/perilla que se puede girar. Se usa para
 
 Módulo o fuente gris (visible en el circuito “21_Fuente Externa”) que suministra energía adicional (normalmente 5 V o 6 V) al servo, para no sobrecargar el Arduino cuando se usan varios servos.
 
-![foto](assets/img/01-publicar/poten2.png)
+![foto](assets/img/01-publicar/EXT.png)
 
 
 **Cables de prueba (o leads de conexión) con pinzas de cocodrilo y conectores banana.**
 
 Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para agarrar terminales, pilas, o componentes) y en el otro extremo conectores tipo banana (macho). Se usan para conectar fuentes de alimentación, baterías o equipos de medición a un circuito de forma rápida y temporal.
 
-![foto](assets/img/01-publicar/prueba.png)
+![foto](assets/img/01-publicar/Prueba.png)

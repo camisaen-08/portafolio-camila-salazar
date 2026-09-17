@@ -53,7 +53,7 @@ Sirve para conectar el Arduino a la computadora, permitiendo cargar programas y 
 
 Permite montar circuitos electrónicos sin necesidad de soldar, conectando fácilmente los diferentes componentes
 
-![foto](assets/img/01-publicar/proto.png)
+![foto](assets/img/01-publicar/Proto.png)
 
 
 **LED**

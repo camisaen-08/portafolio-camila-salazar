@@ -9,7 +9,7 @@ nav_order: 1
 - Nací el 4 de enero de 2008 en Tampico, Tamaulipas. Soy la mas pequeña de cuatro hermanos y tengo una gemela.
 - Me mudé a la CDMX a los 4 años y me gradué del Colegio Vista Hermosa.
 
-![Blink1](assets/img/01-publicar/mifoto.jpg)
+![foto1](assets/img/01-publicar/mifoto.jpg)
 
 ![FAM](assets/img/FAM)
 

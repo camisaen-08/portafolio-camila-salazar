@@ -133,7 +133,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 ![foto](assets/img/01-publicar/FOT0.png)
 
-**VIDEO**
+**Video**
 
 ![video](assets/videos/CERO.mov)
 

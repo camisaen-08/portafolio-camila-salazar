@@ -19,12 +19,12 @@ nav_order: 1
 
 **Deportes:** Me encantan los deportes como el fútbol, la bicicleta de montaña, los hikes, el buceo, la escalada, y muchos más... 
 
-![bike](assets/img/bike)
+![bike](assets/img/01-publicar/bike.png)
 
-![scooba](assets/img/scooba)
+![scooba](assets/img/01-publicar/scooba.PNG)
 
 **Hobbies:** Una de mis pasiones más grandes es la música, lo que mas me gusta es ir a conciertos!. Aqui puedes explorar un poco de mis gustos: [PLAYLIST CSE SPOTIFY](https://open.spotify.com/playlist/1GEPakMBmQGfnrqjWuf3vf?si=0c44124d2071490a). También soy fan #1 de la naturaleza y las montañas!
 
-![billie](assets/img/billie)
+![billie](assets/img/01-publicar/billie.jpg)
 
-![HARRY](assets/img/HARRY)
+![HARRY](assets/img/01-publicar/HARRY.jpg)

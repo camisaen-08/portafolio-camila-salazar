@@ -6,7 +6,8 @@ nav_order: 4
 
 **Paso 1: Modelar en SolidWorks, descargar, y mandar**
 
-![foto](assets/img/01-publicar/)
+![foto](assets/img/01-publicar/1.png)
+![foto](assets/img/01-publicar/2.png)
 
 **Paso 2: Imprimir considerando velocidad y potencia**
 

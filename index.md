@@ -11,7 +11,7 @@ nav_order: 1
 
 ![foto1](assets/img/01-publicar/mifoto.jpg)
 
-![FAM](assets/img/FAM.jpg)
+![FAM](assets/img/01-publicar/FAM.jpg)
 
 ----
 

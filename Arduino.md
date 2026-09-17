@@ -11,7 +11,7 @@ Fernández, Y. (2025, junio 25). Qué es Arduino, cómo funciona y qué puedes h
 
 -----
 
-# Cómo se utiliza el programa Arduino IDE?
+# ¿Cómo se utiliza el programa Arduino IDE?
 
 El programa Arduino IDEse utiliza para escribir, compilar y cargar código en las placas de desarrollo Arduino mediante una interfaz gráfica sencilla. 
 
@@ -118,3 +118,12 @@ Módulo o fuente gris (visible en el circuito “21_Fuente Externa”) que sumin
 Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para agarrar terminales, pilas, o componentes) y en el otro extremo conectores tipo banana (macho). Se usan para conectar fuentes de alimentación, baterías o equipos de medición a un circuito de forma rápida y temporal.
 
 ![foto](assets/img/01-publicar/Prueba.png)
+
+-------
+
+# Circuitos
+
+![foto](assets/img/01-publicar/C1.png)
+![foto](assets/img/01-publicar/C2.png)
+
+

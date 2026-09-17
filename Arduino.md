@@ -96,7 +96,7 @@ Es un interruptor momentáneo que permite abrir o cerrar el circuito al presiona
 
 Motor azul pequeño (tipo SG90) con engranajes y un eje que puede girar a posiciones controladas (normalmente 0°–180°). Se controla con una señal PWM desde el Arduino.
 
-![foto](assets/img/01-publicar/servo.png)
+![foto](assets/img/01-publicar/Servo.png)
 
 
 **Potenciómetro**

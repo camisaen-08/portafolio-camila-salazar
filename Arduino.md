@@ -137,6 +137,11 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 ![video](assets/videos/CERO.mov)
 
+<video controls width="720">
+  <source src="/portafolio-camila-salazar/assets/video/CERO.mov" type="video/mov>
+  Tu navegador no soporta video HTML5.
+</video>
+
 **Código**
 
 ![foto](assets/img/01-publicar/COD0.png)
@@ -164,6 +169,26 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 ---
 
 # Circuito 2
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T2.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F2.png)
+
+**Video**
+
+![video](assets/videos/DOS.mov)
+
+**Código**
+
+![foto](assets/img/01-publicar/CO2.png)
+
+---
+
+# Circuito 3
 
 **Imagen Tinkerkad**
 

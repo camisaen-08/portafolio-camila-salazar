@@ -138,7 +138,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 ![video](assets/videos/CERO.mov)
 
 <video controls width="720">
-  <source src="/portafolio-camila-salazar/assets/video/CERO.mov" type="video/mov>
+  <source src="/portafolio-camila-salazar/assets/video/CERO.mp4" type="video/mp4>
   Tu navegador no soporta video HTML5.
 </video>
 
@@ -163,7 +163,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 ![video](assets/videos/UNO.mov)
 
 <video controls width="720">
-  <source src="/portafolio-camila-salazar/assets/video/UNO.mov" type="video/mov>
+  <source src="/portafolio-camila-salazar/assets/video/UNO.mp4" type="video/mp4>
   Tu navegador no soporta video HTML5.
 </video>
 
@@ -188,7 +188,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 ![video](assets/videos/DOS.mov)
 
 <video controls width="720">
-  <source src="/portafolio-camila-salazar/assets/video/DOS.mov" type="video/mov>
+  <source src="/portafolio-camila-salazar/assets/video/DOS.mp4" type="video/mp4>
   Tu navegador no soporta video HTML5.
 </video>
 
@@ -213,7 +213,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 ![video](assets/videos/DOS.mov)
 
 <video controls width="720">
-  <source src="/portafolio-camila-salazar/assets/video/TRES.mov" type="video/mov>
+  <source src="/portafolio-camila-salazar/assets/video/TRES.mp4" type="video/mp4>
   Tu navegador no soporta video HTML5.
 </video>
 

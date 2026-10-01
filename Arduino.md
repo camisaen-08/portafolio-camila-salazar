@@ -142,6 +142,13 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
   Tu navegador no soporta video HTML5.
 </video>
 
+
+<video controls width="720">
+  <source src="../assets/videos/CERO.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+
 **Código**
 
 ![foto](assets/img/01-publicar/COD0.png)
@@ -213,7 +220,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 ![video](assets/videos/DOS.mov)
 
 <video controls width="720">
-  <source src="/portafolio-camila-salazar/assets/video/TRES.mp4" type="video/mp4">
+  <source src="/portafolio-camila-salazar/assets/video/TRES.mp4" type="video/mp4>
   Tu navegador no soporta video HTML5.
 </video>
 

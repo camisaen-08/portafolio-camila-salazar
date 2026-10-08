@@ -198,11 +198,11 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Imagen Tinkerkad**
 
-![foto](assets/img/01-publicar/T2.png)
+![foto](assets/img/01-publicar/T3.png)
 
 **Foto**
 
-![foto](assets/img/01-publicar/F2.png)
+![foto](assets/img/01-publicar/F3.png)
 
 **Video**
 
@@ -213,4 +213,52 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/CO2.png)
+![foto](assets/img/01-publicar/C3.png)
+
+---
+
+# Circuito 4
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T4.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F4.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/CUATRO.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C4.png)
+
+---
+
+# Circuito 5
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T5.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F5.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/CINCO.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C5.png)
+
+

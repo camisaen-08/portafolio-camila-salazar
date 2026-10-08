@@ -261,4 +261,27 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 ![foto](assets/img/01-publicar/C5.png)
 
+---
+
+# Circuito 6
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T6.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F6.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/SEIS.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C6.png)
+
 

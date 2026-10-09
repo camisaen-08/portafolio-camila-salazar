@@ -512,4 +512,4 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/16.png)
+![foto](assets/img/01-publicar/C16.png)

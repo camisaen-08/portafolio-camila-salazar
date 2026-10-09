@@ -513,3 +513,143 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 **Código**
 
 ![foto](assets/img/01-publicar/C16.png)
+
+---
+
+# Circuito 17
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T17.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F17.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DIECISIETE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C17.png)
+
+---
+
+# Circuito 18
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T18.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F18.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DIECIOCHO.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C18.png)
+
+
+---
+
+# Circuito 19
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T19.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F19.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DIECINUEVE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C19.png)
+
+---
+
+# Circuito 19_2
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T192.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F192.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DIECINUEVEDOS.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C192.png)
+
+
+---
+
+# Circuito 20_2
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T202.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F202.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/VEINTEDOS.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C202.png)
+
+---
+
+# Circuito 21
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T21.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F21.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/VEINTIUNO.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/C21.png)

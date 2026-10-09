@@ -352,3 +352,164 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 **Código**
 
 ![foto](assets/img/01-publicar/C8.png)
+
+---
+
+# Circuito 10
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T10.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F10.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DIEZ.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/10.png)
+
+---
+
+# Circuito 11
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T11.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F11.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/ONCE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/11.png)
+
+---
+
+# Circuito 12
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T12.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F12.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DOCE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/12.png)
+
+---
+
+# Circuito 13
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T13.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F13.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/TRECE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/13.png)
+
+---
+
+# Circuito 14
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T14.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F14.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/CATORCE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/14.png)
+
+---
+
+# Circuito 15
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T15.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F15.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/QUINCE.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/15.png)
+
+---
+
+# Circuito 16
+
+**Imagen Tinkerkad**
+
+![foto](assets/img/01-publicar/T16.png)
+
+**Foto**
+
+![foto](assets/img/01-publicar/F16.png)
+
+**Video**
+
+<video controls width="720">
+  <source src="../assets/videos/DIECISEIS.mp4" type="video/mp4">
+  Tu navegador no soporta video HTML5.
+</video>
+
+**Código**
+
+![foto](assets/img/01-publicar/16.png)

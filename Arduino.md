@@ -374,7 +374,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/10.png)
+![foto](assets/img/01-publicar/C10.png)
 
 ---
 
@@ -397,7 +397,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/11.png)
+![foto](assets/img/01-publicar/C11.png)
 
 ---
 
@@ -420,7 +420,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/12.png)
+![foto](assets/img/01-publicar/C12.png)
 
 ---
 
@@ -443,7 +443,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/13.png)
+![foto](assets/img/01-publicar/C13.png)
 
 ---
 
@@ -466,7 +466,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/14.png)
+![foto](assets/img/01-publicar/C14.png)
 
 ---
 
@@ -489,7 +489,7 @@ Par de cables (rojo y negro) que tienen en un extremo pinzas de cocodrilo (para 
 
 **Código**
 
-![foto](assets/img/01-publicar/15.png)
+![foto](assets/img/01-publicar/C15.png)
 
 ---
 

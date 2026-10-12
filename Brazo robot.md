@@ -88,6 +88,6 @@ En este video se puede ver a mi brazo pasando la pelota al brazo de otros compa√
 
 Esta es la foto clara del resultado final de mi brazo robot.
 
-![foto](assets/img/01-publicar/FOTOFINAL.jpeg)
+![foto](assets/img/01-publicar/FOTOFINAL.png)
 
 

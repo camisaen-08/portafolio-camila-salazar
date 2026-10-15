@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Corte Lázer
+title: Corte Láser
 nav_order: 4
 ---
 
